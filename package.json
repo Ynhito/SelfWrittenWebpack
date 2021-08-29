@@ -1,8 +1,8 @@
 {
-  "name": "self-written-webpack",
+  "name": "dmjt-js-module-bundler",
   "version": "1.0.0",
-  "description": "",
-  "author": "Osincev Dmitriy",
+  "description": "simple js module bundler",
+  "author": "https://github.com/Dvachee",
   "license": "MIT",
   "dependencies": {
     "babel-core": "^6.26.0",
